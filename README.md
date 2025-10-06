@@ -23,7 +23,7 @@ This renderer is built upon Chili Framework which is a lightweight framework tha
 | Example Scene | Description |
 |----------------|-------------|
 | ![Render](model.gif) | Basic Phong-shaded model |
-| ![Render2](culling.gif) | Depth culling and texture mapping demo |
+| ![Render2](culling.gif) | Depth culling and texture mapping |
 | ![Render3](texture.gif) | Perspective-corrected texture mapping |
 
 ---
