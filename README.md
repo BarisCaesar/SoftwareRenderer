@@ -22,8 +22,8 @@ This renderer is built upon Chili Framework which is a lightweight framework tha
 
 | Example Scene | Description |
 |----------------|-------------|
-| ![Render1](path/to/your_first_gif.gif) | Basic Phong-shaded model |
-| ![Render2](path/to/your_second_gif.gif) | Depth culling and texture mapping demo |
-| ![Render3](path/to/your_third_gif.gif) | Perspective-corrected textured cube |
+| ![Render](model.gif) | Basic Phong-shaded model |
+| ![Render2](culling.gif) | Depth culling and texture mapping demo |
+| ![Render3](texture.gif) | Perspective-corrected texture mapping |
 
 ---
